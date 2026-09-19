@@ -1,0 +1,6 @@
+{
+  "name": "E-Commerce Sales & Customer Analytics",
+  "description": "End-to-End Data Analytics Portfolio project featuring realistic e-commerce datasets, Python cleaning & EDA, SQL business queries, RFM segmentation, and an interactive Power BI dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
